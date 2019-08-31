@@ -3,10 +3,10 @@
 Webseite for financial machine learning that describe our vision.
 
 ## Components
-1. Home
-1. About
-1. Blogs
-1. Login & Signup
+* [Home](#Home)
+* [About](#About)
+* [Blogs](#Blogs)
+* [Login & Signup](#Login & Signup)
 
 ## Home
 
