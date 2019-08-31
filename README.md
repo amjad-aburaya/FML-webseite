@@ -9,7 +9,7 @@ Webseite for financial machine learning that describe our vision and offer our o
 * [Login-&-Signup](#Login-&-Signup)
 
 ### Home
-
+The first page in the website and map to everything.
 ### About
 Here we describe your company and talk about everything in the company.
 ### Blogs
