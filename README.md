@@ -6,7 +6,7 @@ Webseite for financial machine learning that describe our vision.
 * [Home](#Home)
 * [About](#About)
 * [Blogs](#Blogs)
-* [Login & Signup](#Login & Signup)
+* [Login-&-Signup](#Login-&-Signup)
 
 ## Home
 
