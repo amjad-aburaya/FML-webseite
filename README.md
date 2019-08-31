@@ -18,4 +18,6 @@ In blogs we share a financial blogs that make our website friendly.
 Login will help us more in the future work when we add the machine learning prediction to the website.
 
 ## Future Work
-
+1. Clone the FML project with website.
+1. Add a live trading in webseite.
+1. Add a payment method.
